@@ -1,0 +1,2 @@
+Pillow==5.2.0
+pytesseract==0.2.4
