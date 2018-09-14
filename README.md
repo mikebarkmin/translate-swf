@@ -1,9 +1,9 @@
 # Setup
 
-You need to install (tesseract-ocr)[https://github.com/tesseract-ocr/tesseract]
+You need to install [tesseract-ocr](https://github.com/tesseract-ocr/tesseract)
 and additional language packages, depanding on your needs.
 
-You need to install (swftools)[http://www.swftools.org].
+You need to install [swftools](http://www.swftools.org).
 
 Both should be available in your $PATH variable.
 
